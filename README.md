@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krnRaj03 a software engineer, husband & dad.
 - 👀 I’m interested in new technologies, coding & console gaming.
-- 🌱 I’m currently learning Iot
+- 🌱 I’m currently learning ReactJS & Iot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : krnraj002@gmail.com/ watsapp:+91 7508306303/ call:+994 55 671 4945
 
