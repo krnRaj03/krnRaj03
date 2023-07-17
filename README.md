@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on Django/Python/FastApi/REST Api.
 - 🌱 I'm also proficient in AWS cores service like EC2, S3, DynamoDB, CodePipeline etc.
 - 💞️ I’m looking to collaborate on new Innovative ideas.
-- 📫 How to reach me : krnraj002@gmail.com/ watsapp:+91 7009200316
+- 📫 How to reach me : krnraj002@gmail.com/ watsapp:+91 7009200316.
 
 <!---
 krnRaj03/krnRaj03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
