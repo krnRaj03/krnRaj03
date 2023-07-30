@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krnRaj03 a software engineer, husband & dad.
 - 👀 I’m interested in new technologies, coding & console gaming.
-- 🌱 I’m currently working on Django/Python/FastApi/REST Api.
+- 🌱 I’m currently working on Django/Python/FastApi/REST Api, along with basic Bootstarp5, HTML5 & JS.
 - 🌱 I'm also proficient in AWS cores service like EC2, S3, DynamoDB, CodePipeline etc.
 - 💞️ I’m looking to collaborate on new Innovative ideas.
 - 📫 How to reach me : krnraj002@gmail.com/ watsapp:+91 7009200316.
