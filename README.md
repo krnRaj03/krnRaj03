@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krnRaj03! A backend + AWS developer, an entrepreneur (https://megahertz.az),a husband & a father.
+- 👋 Hi, I’m @krnRaj03! A backend + AWS developer, an entrepreneur (https://megahertz.az), a husband & a father.
 - 👀 I’m interested in new startups & projects, coding & console gaming.
 - 🌱 I work on Django,Python,FastApi,REST Framework, along with Bootstarp5, HTML5 & JavaScript.
 - 🌱 I'm a certified AWS Cloud Practionerer.
